@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/%7Brepo-weather-widget-skillFactory%7D/static/css/main.572a0f7b.css",
-    "main.js": "/%7Brepo-weather-widget-skillFactory%7D/static/js/main.e556f42a.js",
+    "main.css": "/%7Brepo-weather-widget-skillFactory%7D/static/css/main.cabf8149.css",
+    "main.js": "/%7Brepo-weather-widget-skillFactory%7D/static/js/main.dfdca559.js",
     "static/media/sity.jpeg": "/%7Brepo-weather-widget-skillFactory%7D/static/media/sity.18630aae22aadfa4a85e.jpeg",
     "static/media/Circe-Regular.eot": "/%7Brepo-weather-widget-skillFactory%7D/static/media/Circe-Regular.cb92908127bb9d67856e.eot",
     "static/media/Circe-Regular.ttf": "/%7Brepo-weather-widget-skillFactory%7D/static/media/Circe-Regular.f80cf2f1a50fc5107f4c.ttf",
@@ -20,11 +20,11 @@
     "static/media/target.svg": "/%7Brepo-weather-widget-skillFactory%7D/static/media/target.1481676bd4b28742bae8.svg",
     "index.html": "/%7Brepo-weather-widget-skillFactory%7D/index.html",
     "static/media/search.svg": "/%7Brepo-weather-widget-skillFactory%7D/static/media/search.741d27f9440ac17b1582.svg",
-    "main.572a0f7b.css.map": "/%7Brepo-weather-widget-skillFactory%7D/static/css/main.572a0f7b.css.map",
-    "main.e556f42a.js.map": "/%7Brepo-weather-widget-skillFactory%7D/static/js/main.e556f42a.js.map"
+    "main.cabf8149.css.map": "/%7Brepo-weather-widget-skillFactory%7D/static/css/main.cabf8149.css.map",
+    "main.dfdca559.js.map": "/%7Brepo-weather-widget-skillFactory%7D/static/js/main.dfdca559.js.map"
   },
   "entrypoints": [
-    "static/css/main.572a0f7b.css",
-    "static/js/main.e556f42a.js"
+    "static/css/main.cabf8149.css",
+    "static/js/main.dfdca559.js"
   ]
 }
